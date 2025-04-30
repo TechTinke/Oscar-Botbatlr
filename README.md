@@ -74,17 +74,19 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ---
 
 ### Project Name
+
 -BotBattlr
 
 ---
 
 ### Description
+
 Welcome to BotBattlr, a fun and interactive app where you can collect, manage, and deploy a variety of bots! Build your own bot army, organize bots based on their class, and choose your favorite bots to fight for you. You can add them to your army, view their stats, and discharge them if needed!
 
-
-
 ---
+
 ### Key Features
+
 1.Bot Collection: View a list of bots, filter them by class (e.g., Medic, Assault, Defender, etc.), and search for specific bots by name or weapon.
 
 2.Bot Details: Click on a bot to see its full details, including stats like health, damage, and armor.
@@ -95,43 +97,43 @@ Welcome to BotBattlr, a fun and interactive app where you can collect, manage, a
 
 5.Responsive Design: Works seamlessly on both desktop and mobile devices.
 
-
 ---
 
 ### Behavior-Driven Development (BDD)
+
 1. Bot Collection
-Users can view a list of bots with their names, images, and descriptions.
+   Users can view a list of bots with their names, images, and descriptions.
 
 Users can search for bots by name or weapon.
 
 Users can filter bots by class.
 
 2. Bot Details
-Clicking a bot shows its detailed information, including avatar, name, health, damage, armor, and catchphrase.
+   Clicking a bot shows its detailed information, including avatar, name, health, damage, armor, and catchphrase.
 
 3. Add Bot to Army
-Users can add a bot to their army from the details page.
+   Users can add a bot to their army from the details page.
 
 Duplicate bots cannot be added to the army.
 
 4. View Army
-Users can view all the bots in their army, with names, images, and stats.
+   Users can view all the bots in their army, with names, images, and stats.
 
 5. Discharge Bot from Army
-Users can discharge a bot from their army with a confirmation prompt.
+   Users can discharge a bot from their army with a confirmation prompt.
 
 Discharging can be confirmed or canceled.
 
 6. Responsive Design
-The app adapts to mobile view, with a responsive layout and navigation.
+   The app adapts to mobile view, with a responsive layout and navigation.
 
 7. Persistent Data
-Added bots remain in the army after page refresh or app restart.
-
+   Added bots remain in the army after page refresh or app restart.
 
 ---
 
 ### Technologies Used
+
 1.React: For building the user interface.
 
 2.React Router: For navigation between pages.
@@ -142,15 +144,16 @@ Added bots remain in the army after page refresh or app restart.
 
 5.CSS: For styling the app with a clean and responsive layout.
 
-
 ---
+
 ### Author
 
-Praise Victoria
-Email: karonjivictoria@gmail.com
+Oscar Maingi
+Email: maingioscar2@gmail.com
 
 ---
- ### Setup Instructions
+
+### Setup Instructions
 
 1.Clone the repository
 
@@ -163,25 +166,22 @@ Email: karonjivictoria@gmail.com
 ---
 
 ### known issues
+
 -One cannot add a bot in the bot collection to sell it
 
 ---
 
-
 ### Contact Information
 
 For inquiries or suggestions regarding this project, reach out to the author:
-Email: karonjivictoria@gmail.com
+Email: maingioscar2@gmail.com
 
 ---
 
-
- ### License
+### License
 
 License: This project is licensed under the MIT License.
 Copyright: © 2025 Praise Victoria. All rights reserved.
-
-
 
 ---
 
